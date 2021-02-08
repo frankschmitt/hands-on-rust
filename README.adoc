@@ -1,0 +1,12 @@
+= SYNOPSIS
+
+A collection of small games, built in Rust (with bracket-lib, following the book "Hands on Rust").
+
+
+= GETTING STARTED
+cargo build
+cargo run
+
+= LICENSE
+
+Apache License 2.0 (see LICENSE for details)
