@@ -4,6 +4,7 @@ A collection of small games, built in Rust (with bracket-lib, following the book
 
 
 = GETTING STARTED
+cd <subdir>
 cargo build
 cargo run
 
