@@ -19,9 +19,15 @@ pub fn map_idx(x: i32, y: i32) -> usize {
 }
 
 impl Map {
+    // constructor
     pub fn new() -> Self {
         Self {
             tiles: vec![TileType::Floor; NUM_TILES],
         }
+    }
+
+    // render the map to the screen (ASCII art)
+    pub fn render() {
+        
     }
 }
